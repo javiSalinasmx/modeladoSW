@@ -1,0 +1,16 @@
+DIAGRAMA DE ACTIVIDADES: TITULACIÓN DE UN EGRESADO
+
+==================================================
+DIFICULTAD DEL DIAGRAMA
+==================================================
+
+Lo más complicado del diagrama fue diseñar las decisiones sin que las flechas se crucen, porque varias líneas regresan a "Elegir modalidad", la tesis vuelve al asesor desde puntos distintos y el examen solo tiene un límite de reintento. Por eso tuve que usar los conectores circulares. Esto fue recomendado por Claude.
+
+
+==================================================
+AGREGADO
+==================================================
+
+Investigar por qué el machismo y la homofobia afectan a la sociedad a pesar de no formar parte de un colectivo LGBT+ y/o ser mujer.
+
+El machismo y la homofobia no dañan solo a quienes los sufren de forma directa, sino a toda la sociedad. Ambos se basan en roles rígidos sobre cómo "debe" ser un hombre o una mujer, y esas reglas también limitan a quienes no pertenecen a esos grupos. Por ejemplo, a los hombres heterosexuales se les presiona para que no muestren emociones, no pidan ayuda y demuestren su masculinidad con rudeza o violencia, lo que se relaciona con más conductas de riesgo, problemas de salud mental y dificultad para formar vínculos sanos. Además, la discriminación genera desigualdad económica y social, pues desperdicia el talento de muchas personas, aumenta la violencia y deteriora la convivencia. También afecta a las familias y amistades de las personas discriminadas, y fomenta el miedo a ser señalado por no cumplir con lo "esperado". En conclusión, una sociedad que reduce el machismo y la homofobia es más justa, segura y saludable para todos.
